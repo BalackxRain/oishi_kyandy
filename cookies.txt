@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.antonsnyc.com	TRUE	/	FALSE	1999999999	csrftoken	A0GJ2AjvOBgXjeKREcgAkjDx28IrH3EJ
+www.antonsnyc.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
